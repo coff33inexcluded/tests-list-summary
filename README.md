@@ -2,7 +2,7 @@
 
 ## Important
 
-- [public]vio999.github.io:[under progress] BLOG
+- [public] **BLOG** (under progress): [vio999.github.io](https://github.com/vio999/vio999.github.io)
 
 ## 2019
 
