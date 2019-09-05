@@ -8,6 +8,7 @@
 
 ### Aug-19S
 
+- [private] **tst01**: [Ajax Login&Register System Practice](https://github.com/vio999/tst01-Aug-19)
 - [private] **tst02**: [简单login+远程数据库验证信息练习（tst03-05分布验证练习）](https://github.com/vio999/tst02-Aug-19)
 - [private] **tst06**: [.gitignore研究练习](https://github.com/vio999/tst06-Aug-19)
 - [private] **tst07**: [github page研究练习](https://github.com/vio999/tst07-Aug-19)
