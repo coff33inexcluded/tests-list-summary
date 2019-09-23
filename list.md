@@ -1,7 +1,7 @@
-
+﻿
 # Sorted by date
 
-*! Last Update: Sep.9th.2019*
+*! Last Update: Sep.23rd.2019*
 
 ( [back to main README page](https://vio999.github.io/tests-list-summary/) )
 
@@ -19,6 +19,23 @@
 - [private] **tst08**: (!unfinished)[ES5 & ES6](https://github.com/vio999/tst08-Sep-19)
 - [private] **tst09**: [Nodemailer](https://github.com/vio999/tst09-Sep-19)
 - [private] **tst10**: [Git 3 types of workflow](https://github.com/vio999/tst10-Sep-19)
+- [private] **tst11**: [markdown-loader](https://github.com/vio999/tst11-Sep-19)
+- [private] **tst12**: [practice of handlebars with express](https://github.com/vio999/tst12-Sep-19)
+- [private] **tst13**: (!unfinished)[handlebars + express ->  webpack immigration](https://github.com/vio999/tst13-Sep-19)
+- [private] **tst14**: [CSS: Grid&FlexBox](https://github.com/vio999/tst14-Sep-19)
+- [**public**] **tst15**: 
+  - project files: [vue practice: todo list app w/ router](https://github.com/vio999/tst15-Sep-19)
+  - gh-pages: [click-me](https://vio999.github.io/tst15-Sep-19/)
+- [**public**] **tst16**: 
+  - project files: [vue practice: simple quiz w/ vueBootstrap, custom api](https://github.com/vio999/tst16-Sep-19)
+  - gh-pages: [click-me](https://vio999.github.io/tst16-Sep-19/)
+- [**public**] **tst17**: 
+  - project files: [vue practice: pets info list w/ router,  vueBootstrap, local data](https://github.com/vio999/tst17-Sep-19)
+  - gh-pages: [click-me](https://vio999.github.io/tst17-Sep-19/)
+- [**public**] **tst18**:
+  - project files: [vue practice: todo list app w/ vuex,  vueBootstrap, jsonPlaceholder's api](https://github.com/vio999/tst18-Sep-19)
+  - gh-pages: [click-me](https://vio999.github.io/tst18-Sep-19/)
+- [private] **tst19**: [CSS practice: grid&flexbox in sass w/ grunt](https://github.com/vio999/tst19-Sep-19)
 
 ### Aug-19
 
