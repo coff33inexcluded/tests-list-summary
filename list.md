@@ -1,11 +1,17 @@
 ﻿
 # Sorted by date
 
-*! Last Update: Sep.23rd.2019*
+*! Last Update: Oct.6th.2019*
 
 ( [back to main README page](https://vio999.github.io/tests-list-summary/) )
 
 ## 2019
+
+### OCT-19
+
+- [public] **tst01**:
+  - project files: [weather app w/ vanilla js, darksky api, skycons](https://github.com/vio999/tst01-Oct-19)
+  - gh-pages: [click-me](https://vio999.github.io/tst01-Oct-19/)
 
 ### Sep-19
 
@@ -35,7 +41,8 @@
 - [**public**] **tst18**:
   - project files: [vue practice: todo list app w/ vuex,  vueBootstrap, jsonPlaceholder's api](https://github.com/vio999/tst18-Sep-19)
   - gh-pages: [click-me](https://vio999.github.io/tst18-Sep-19/)
-- [private] **tst19**: [CSS practice: grid&flexbox in sass w/ grunt](https://github.com/vio999/tst19-Sep-19)
+- [private] **tst19**: (!unfinished)[CSS practice: grid & flexbox in sass w/ grunt](https://github.com/vio999/tst19-Sep-19)
+- [private] **tst20**: (!unfinished)[deploy WebApp on Ubuntu w/ express & grunt](https://github.com/vio999/tst19-Sep-20)
 
 ### Aug-19
 

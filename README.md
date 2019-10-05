@@ -8,7 +8,7 @@
 
 ## Sorted categories
 
-*! Last Update: Sep.23rd.2019*
+*! Last Update: Oct.6th.2019*
 - [sorted by date](list.md)
 
 *! Last Update: Sep.6th.2019*
