@@ -9,7 +9,7 @@
 
 ### OCT-19
 
-- [public] **tst01**:
+- [**public**] **tst01**:
   - project files: [weather app w/ vanilla js, darksky api, skycons](https://github.com/vio999/tst01-Oct-19)
   - gh-pages: [click-me](https://vio999.github.io/tst01-Oct-19/)
 
