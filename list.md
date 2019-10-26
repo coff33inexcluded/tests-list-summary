@@ -1,7 +1,7 @@
 ﻿
 # Sorted by date
 
-*! Last Update: Oct.6th.2019*
+*! Last Update: Oct.26th.2019*
 
 ( [back to main README page](https://vio999.github.io/tests-list-summary/) )
 
@@ -12,6 +12,16 @@
 - [**public**] **tst01**:
   - project files: [weather app w/ vanilla js, darksky api, skycons](https://github.com/vio999/tst01-Oct-19)
   - gh-pages: [click-me](https://vio999.github.io/tst01-Oct-19/)
+- [**public**] **tst02**:
+  - project files: [restful api built w/ mongoose, express](https://github.com/vio999/tst02-Oct-19)
+- [**public**] **tst03**:
+  - project files: [uploading files in node.js](https://github.com/vio999/tst03-Oct-19)
+- [**public**] **tst04**:
+  - project files: [uploading files in local mongodb w/ gridFS & multer](https://github.com/vio999/tst04-Oct-19)
+- [**public**] **tst05**:
+  - project files: [node js & passport authentication practice](https://github.com/vio999/tst05-Oct-19)
+  - result: [click-me](https://num1.samsprojects.site/)
+- [private] **tst06**:[tst for setup subdomain in node app w/ nginx](https://github.com/vio999/tst06-Oct-19)
 
 ### Sep-19
 
@@ -29,13 +39,13 @@
 - [private] **tst12**: [practice of handlebars with express](https://github.com/vio999/tst12-Sep-19)
 - [private] **tst13**: (!unfinished)[handlebars + express ->  webpack immigration](https://github.com/vio999/tst13-Sep-19)
 - [private] **tst14**: [CSS: Grid&FlexBox](https://github.com/vio999/tst14-Sep-19)
-- [**public**] **tst15**: 
+- [**public**] **tst15**:
   - project files: [vue practice: todo list app w/ router](https://github.com/vio999/tst15-Sep-19)
   - gh-pages: [click-me](https://vio999.github.io/tst15-Sep-19/)
-- [**public**] **tst16**: 
+- [**public**] **tst16**:
   - project files: [vue practice: simple quiz w/ vueBootstrap, custom api](https://github.com/vio999/tst16-Sep-19)
   - gh-pages: [click-me](https://vio999.github.io/tst16-Sep-19/)
-- [**public**] **tst17**: 
+- [**public**] **tst17**:
   - project files: [vue practice: pets info list w/ router,  vueBootstrap, local data](https://github.com/vio999/tst17-Sep-19)
   - gh-pages: [click-me](https://vio999.github.io/tst17-Sep-19/)
 - [**public**] **tst18**:
@@ -46,7 +56,7 @@
 
 ### Aug-19
 
-- [private] **tst01**: [Ajax Login&Register System Practice](https://github.com/vio999/tst01-Aug-19)
+- [private] **tst01**: [Ajax Login & Register System Practice in php](https://github.com/vio999/tst01-Aug-19)
 - [private] **tst02**: [简单login+远程数据库验证信息练习（tst03-05分布验证练习）](https://github.com/vio999/tst02-Aug-19)
 - [private] **tst06**: [.gitignore研究练习](https://github.com/vio999/tst06-Aug-19)
 - [private] **tst07**: [github page研究练习](https://github.com/vio999/tst07-Aug-19)
